@@ -1,0 +1,8 @@
+xlrd==1.2.0
+Camelot==12.6.29
+Flask==1.1.1
+numpy==1.18.3
+pandas==1.0.3
+pylcs==0.0.6
+tabula-py==2.1.0
+Werkzeug==1.0.0

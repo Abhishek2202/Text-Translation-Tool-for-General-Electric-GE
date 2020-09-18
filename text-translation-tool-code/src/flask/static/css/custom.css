@@ -1,0 +1,30 @@
+.bottom-left{
+	bottom: 2vh;
+	left: 10vw;
+	position: fixed;
+	z-index: 100;
+}
+.bottom-right{
+	bottom: 2vh;
+	left: 35vw;
+	position: fixed;
+	z-index: 100;
+}
+.pdfobject-container {
+	height: 100%;
+	width: 90%;
+	position: relative;
+	left: 10px;
+	/* right: 0; */
+	top: 10px;
+	/* bottom: 0; */
+	margin: auto;
+}
+.hide{
+	visibility: hidden;
+	height: 0;
+	width: 0;
+}
+.pdfobject {
+	border: 1px solid #666;
+}
